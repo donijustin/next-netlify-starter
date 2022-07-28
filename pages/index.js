@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          only on Merchsummer Get started by editing <code>pages/index.js</code>
+          only on <a href="https://www.merchsummer.com">Merchsummer</a> Get started by editing <code>pages/index.js</code>
         </p>
       </main>
 
